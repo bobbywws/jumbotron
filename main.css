@@ -1,0 +1,58 @@
+/*////////////Header//////////*/
+.header {
+	background-color: black;
+	height: 50px;
+}
+
+.headerInfo {
+	color: gray;
+}
+
+.logIn {
+	color: gray;
+	border-radius: 5px;
+	border-style: solid;
+	float: right;	
+	padding-top: 10px;
+	padding-right: 8px;
+	margin-top: 7px;
+	line-height: 20px;
+	vertical-align: center;
+	text-align: left;
+}
+
+h4 {
+	float: left;
+	line-height: 25px;
+	vertical-align: center;
+}
+
+.submit {
+	color: white;
+	width: 80px;
+	height: 35px;
+	line-height: 15px;
+	vertical-align: center;
+	text-align: center;
+}
+/*//////////Title////////*/
+.titleHead {
+	background-color: #d4d4d4;
+	height: 350px;
+}
+
+.title {
+	font-size: 70px;
+}
+
+.intro {
+	font-size: 20px;
+}
+
+.learnMore {
+	font-size: 20px;
+}
+/*//////////Body///////////*/
+h2 {
+	margin-bottom: 0px;
+}
